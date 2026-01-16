@@ -1,0 +1,1 @@
+const e={type:"input-box",title:"scenes.practice.calculator.heading",ariaLabel:"Enter the value for the top-left position of the result matrix",correctnessFunction:t=>Number(t)===19,prefixText:""};export{e as default};

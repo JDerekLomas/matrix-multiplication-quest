@@ -1,0 +1,1 @@
+import{r as e}from"./vendor-DJ1oPbzn.js";const o=t=>e.createElement("svg",{width:16,height:16,viewBox:"0 0 24 24",fill:"none",stroke:"currentColor",strokeWidth:2,...t},e.createElement("path",{d:"M3 17l6.2-11L15 17M3 17h7.2M15 17h5.8M9 6h10.2M9.5 11h8"}));export{o as default};

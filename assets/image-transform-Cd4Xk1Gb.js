@@ -1,0 +1,1 @@
+const i={type:"image-transformer",title:"scenes.image-transformer.title",ariaLabel:"Interactive image transformer showing matrix transformations",initialRotation:0,initialScaleX:1,initialScaleY:1,initialShearX:0,initialShearY:0,showMatrix:!0,showPresets:!0,allowAnimation:!0};export{i as default};
